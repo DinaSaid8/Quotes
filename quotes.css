@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    padding: 4%;
+}
+p{
+    font-size: 35px;
+    line-height: 1.9rem;
+    padding-bottom: 3%;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 2%;
+    text-align: center;
+    width: 250px;
+    height: 80px;
+    padding-bottom: 3%;
+}
+button:hover{
+    background-color: green;
+}
